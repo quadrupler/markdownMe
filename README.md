@@ -10,5 +10,4 @@ where markdownMe comes into play. This Repo will significantly improve the proce
 
 ## Features
 
-Currently creating features that you may find compelling. The MVP will be completed within the next two weeks and I look forward to hearing what you have to say about
-it.
+Currently creating features and a design mockup that you may find compelling. Within the next two days this will be added followed by the MVP will be completed within the next two weeks and I look forward to hearing what you have to say about it.
