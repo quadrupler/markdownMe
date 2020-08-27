@@ -23,7 +23,15 @@ https://quadrupler.github.io/markdownMe/
 
 - [ ] When I leave the page I should still be able to see the current template I'm editing
 
-##### This Branch is Still in Development
+## Important Links
+
+- [Github Markdown Guide](https://guides.github.com/features/mastering-markdown/)
+- [Auto Approve](https://github.com/marketplace/actions/auto-approve)
+- [GitHub Stats](https://github.com/marketplace/actions/profile-readme-stats)
+- [Great GitHub Profile Examples](https://jrtechs.net/open-source/creating-a-dynamic-github-profile)
+- [GitHub Markdown Links](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
+
+## This Branch is Still in Development
 
 This is just the MVP markdown builder. The next sprint will include one that has a server component and a visual editor in addition to it. Also the ability for users to add there own templates to the template section. Additionally plan on a few actions that'll allow these templates to be easily deployed and a bunch of other cool features! 
 
