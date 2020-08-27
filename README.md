@@ -14,6 +14,7 @@ https://quadrupler.github.io/markdownMe/
 - [ ] When I click on an example a markdown editor should appear where I can then edit the template and see the changes I make
 - [ ] When I am accessing the site on a mobile device or equivalent width I shouldn't be able to access the editor and only be able to see the template I'm editing or examples in a mobile format so I can see if it's viewable on mobile
 - [ ] While editing a template I should be able to click on instructions and have different markdown options listed that I can click on and see an example of the inputs and outputs so I know how to use it.
+- [ ] I should be able to add my own templates and allow the community to see the work I've built
 
 ### This Branch is Still in Development
 
