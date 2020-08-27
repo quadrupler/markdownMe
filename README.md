@@ -18,3 +18,4 @@ https://quadrupler.github.io/markdownMe/
 
 ##### This Branch is Still in Development
 
+This is just the MVP markdown builder. The next sprint will include one that has a server component and a visual editor in addition to it. Also the ability for users to add there own templates to the template section. Additionally plan on a few actions that'll allow these templates to be easily deployed and a bunch of other cool features!
