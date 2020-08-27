@@ -25,4 +25,10 @@ https://quadrupler.github.io/markdownMe/
 
 ##### This Branch is Still in Development
 
-This is just the MVP markdown builder. The next sprint will include one that has a server component and a visual editor in addition to it. Also the ability for users to add there own templates to the template section. Additionally plan on a few actions that'll allow these templates to be easily deployed and a bunch of other cool features! Will add the ability for a user to add dynamic content however that won't be available on the MVP. I'll also add more flows than just profiles and project documentation. I just need to start off with a basic editor first lol. Hope you enjoy what is to come!
+This is just the MVP markdown builder. The next sprint will include one that has a server component and a visual editor in addition to it. Also the ability for 
+
+users to add there own templates to the template section. Additionally plan on a few actions that'll allow these templates to be easily deployed and a bunch of 
+
+other cool features! Will add the ability for a user to add dynamic content however that won't be available on the MVP. I'll also add more flows than just profiles 
+
+and project documentation. I just need to start off with a basic editor first lol. Hope you enjoy what is to come!
