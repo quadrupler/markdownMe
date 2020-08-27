@@ -10,3 +10,7 @@ In this post COVID times where you can only obtain a case of corona from the loc
 ## Building A Beautiful Github Profile To Show Off Your Hard Work
 
 Some of you may relate to my personal feelings related to having to talk about myself is something that I desperately try to avoid and the thought of building my own portfolio terrifies me. However after talking to several colleague of mines and individuals I'm interested in collaborating on projects with one of the best ways to be able to show off the cool stuff your building is to have a way to have a profile that shows off the cool things your building! Most people will only look at your GitHub Profile and maybe a project or two. In these few seconds that you have to capture somebodies attention it's critical you show them what your working on!
+
+## Open Source Documentation
+
+This won't be available for months from now. It is in the pipeline eventually though!
