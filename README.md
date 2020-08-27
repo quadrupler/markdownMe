@@ -19,3 +19,8 @@ Most people will only look at your GitHub Profile and maybe a project or two. In
 ## Open Source Documentation
 
 This won't be available for months from now. It is in the pipeline eventually though!
+
+
+### This Branch is Still in Development
+
+Just added these two quick blurbs to state the two User Personas that this website will be trying to reach out to. The finally README will look nothing like this lol.
