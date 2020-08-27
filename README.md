@@ -12,7 +12,7 @@ https://quadrupler.github.io/markdownMe/
 - [ ] When I click on Github Profiles or Documentation Examples I should see a section appear with examples I can pick from
 - [ ] While looking at the markdown examples I should be able to see who built the template and be able to see there profile to give credit
 - [ ] When I click on an example a markdown editor should appear where I can then edit the template and see the changes I make
-- [ ] When I am accessing the site on a mobile device or equivalent width I shouldn't be able to access the editor and only be able to see the template I'm editing or examples in a mobile format so I can see if it's viewable on mobile
+- [ ] When I am accessing the site on a mobile device or equivalent width I shouldn't be able to access the editor and only be able to see the markdown preview I'm editing or examples in a mobile format so I can see if it's viewable on mobile
 - [ ] While editing a template I should be able to click on instructions and have different markdown options listed that I can click on and see an example of the inputs and outputs so I know how to use it.
 - [ ] I should be able to submit my own template and allow it to be added to the examples given on the site
 
