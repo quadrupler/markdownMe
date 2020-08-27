@@ -4,22 +4,16 @@ Markdown Inspiration is a simple static text website built with the purpose of h
 
 https://quadrupler.github.io/markdownMe/
 
-## Trying To Get Your First Software Development Job
 
-In this post COVID times where you can only obtain a case of corona from the local liquor store instead of obtaining that first job as a software developer to get your foot in the door in this very rewarding career can be extremely frustrating. There are still many great opportunities out there but many people will be competing against you for less jobs during these times of record high unemployment. 
+## User Stories
 
-A Great way to stand out of the crowd is to build your projects with a very well built GitHub Profile and README that shows off the hard work you spent hours building your portfolio.
-
-## Building A Beautiful Github Profile To Show Off Your Hard Work
-
-Some of you may relate to my personal feelings related to having to talk about myself is something that I desperately try to avoid and the thought of building my own portfolio terrifies me. However after talking to several colleague of mines and individuals I'm interested in collaborating on projects with one of the best ways to be able to show off the cool stuff your building is to have a way to have a profile that shows off the cool things your building! 
-
-Most people will only look at your GitHub Profile and maybe a project or two. In these few seconds that you have to capture somebodies attention it's critical you show them what your working on!
-
-## Open Source Documentation
-
-This won't be available for months from now. It is in the pipeline eventually though!
-
+- [ ] When I load the page I should be greeted with a splash page that encourages me to continue scrolling
+- [ ] When I visit a page for the first time I should see a section talking about the importance of great markdown and after that I shouldn't see that section anymore
+- [ ] When I click on Github Profiles or Documentation Examples I should see a section appear with examples I can pick from
+- [ ] While looking at the markdown examples I should be able to see who built the template and be able to see there profile to give credit
+- [ ] When I click on an example a markdown editor should appear where I can then edit the template and see the changes I make
+- [ ] When I am accessing the site on a mobile device or equivalent width I shouldn't be able to access the editor and only be able to see the template I'm editing or examples in a mobile format so I can see if it's viewable on mobile
+- [ ] While editing a template I should be able to click on instructions and have different markdown options listed that I can click on and see an example of the inputs and outputs so I know how to use it.
 
 ### This Branch is Still in Development
 
